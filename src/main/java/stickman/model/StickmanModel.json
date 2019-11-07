@@ -1,0 +1,85 @@
+ {
+   "EasyLevel": {
+     "_comment": "This is the sample JSON file. You must use this format for your JSON files as we will be using similar formats when marking your assignment. Anything starting with an underscore (like this _comment) should be ignored.",
+     "_stickmanSizeComment": "Your main character can be tiny, normal, large, or giant. What pixel dimensions these match can be up to you.",
+     "Stickman": {
+       "XPos": 20.0,
+       "YPos": 316.0,
+       "XVelocity":1.5,
+       "Height": 60.0,
+       "Width": 20.0,
+       "ImagePath": "file:src/main/resources/ch_stand2.png",
+       "Size": "tiny"
+     },
+
+     "LevelHeight": 100.0,
+     "LevelWidth": 10.0,
+     "FloorHeight": 375.0,
+     "HeroX": 20.0,
+     "_stickmanPosComment": "Stickman should start at the x position indicated, with their y position being on your 'floor'. This must be a positive double.",
+
+     "_cloudVelocityComment": "Clouds should move the given number of pixels per second. This must be a positive double.",
+     "FirstCloud": {
+       "XPos": 20.0,
+       "YPos": 100.0,
+       "XVelocity":1.5,
+       "Height": 100.0,
+       "Width": 50.0,
+       "ImagePath": "file:src/main/resources/cloud_2.png"
+
+     },
+     "Checkpoint": {
+       "XPos": 900.0,
+       "YPos": 340.0,
+       "XVelocity":1.5,
+       "Height": 100.0,
+       "Width": 50.0,
+       "ImagePath": "file:src/main/resources/door.png"
+
+     },
+     "SecondCloud": {
+       "XPos": 34.0,
+       "YPos": 120.0,
+       "XVelocity":3.2,
+       "Height": 100.0,
+       "Width": 50.0,
+       "ImagePath": "file:src/main/resources/cloud_2.png"
+     },"SecondPlatform": {
+       "XPos": 180.0,
+       "YPos": 320.0,
+       "XVelocity":0,
+       "Height": 20.0,
+       "Width": 20.0,
+       "ImagePath": "file:src/main/resources/foot_tile.png"
+     },
+     "FirstPlatform": {
+       "XPos": 130.0,
+       "YPos": 350.0,
+       "XVelocity":0,
+       "Height": 20.0,
+       "Width": 20.0,
+       "ImagePath": "file:src/main/resources/foot_tile.png"
+     },
+     "FirstMonsterEntity": {
+       "XPos": 800.0,
+       "YPos": 350.0,
+       "XVelocity":1.0,
+       "Height": 50.0,
+       "Width": 50.0,
+       "ImagePath": "file:src/main/resources/slimeBb.png"
+     },
+     "SecondMonsterEntity": {
+       "XPos": 500.0,
+       "YPos": 350.0,
+       "YVelocity":1.0,
+       "Height": 30.0,
+       "Width": 30.0,
+       "ImagePath": "file:src/main/resources/slimeGa.png"
+     }
+
+
+
+
+
+   }
+}
