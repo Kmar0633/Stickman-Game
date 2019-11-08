@@ -1,5 +1,8 @@
 # Stickman Game
 
+## Introduction
+A 2D platform game written in Java about the character: Stickman. Play stickman as he defeats enemies and gain power ups while traversing through different levels until reaching the end goal.
+
 ## Instructions to run the program:
 
 Go to your terminal and type in the path of the program so that you will go to the local project directory and type "gradle run" to run the program in gradle. Use 'gradle build' to build the program. The program can also be run using gradle run and gradle build within Intellij.
