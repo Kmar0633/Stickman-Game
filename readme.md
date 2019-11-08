@@ -18,6 +18,7 @@ in GameConfiguration.
 
 ## Screenshots of the game
 ![alt text](https://github.com/Kmar0633/Stickman-Game/blob/master/Screen%20Shot%202019-11-08%20at%2011.08.12%20am.png)
+![alt text](https://github.com/Kmar0633/Stickman-Game/blob/master/Screen%20Shot%202019-11-08%20at%2011.08.29%20am.png)
 ## How to play:
 Click the left arrow button to make the player move left and click the right arrow button to make the player more right.
 Player can collide with the blocks and can land on it. However, if the player makes contact with the enemy (slimes)
