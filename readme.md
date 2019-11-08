@@ -28,7 +28,12 @@ Player can collide with the blocks and can land on it. However, if the player ma
 on the left or right side then it will reset to its original, if the player jumps on it then it disappears.
 The player wins by reaching the door at the end of the level, ending the game.
 
+## Technologies Used:
 
+- Java
+- JavaFx
+- Gradle
+- JSON
 
 ## Coding Style:
 I used the google java style and followed its guidlines:
